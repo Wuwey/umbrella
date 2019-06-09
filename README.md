@@ -31,4 +31,4 @@ This is a project for code2things course.
 11周-15周 着手制作；
 16周 外形修剪。
 
-欲查看开发日志请点击https://github.com/Wuwey/umbrella/edit/master/DevLog.md
+欲查看开发日志请点击https://github.com/Wuwey/umbrella/blob/master/DevLog.md
