@@ -15,7 +15,7 @@
 ### 外形2：竖条形
 ![Image of 竖条灯](https://github.com/Wuwey/umbrella/blob/master/%E7%AB%96%E6%9D%A1%E7%81%AF.png)
 ### 内部结构
-其中红色部分为单片机的防止位置，内部其余位置用于走向以及电池；
+其中红色部分为单片机的放置位置，内部其余位置用于走线以及电池；
 ![Image of 内部结构](https://github.com/Wuwey/umbrella/blob/master/%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
 ### 全部设计总览
 白色部分为灯的位置
