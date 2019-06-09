@@ -11,17 +11,17 @@
     利用3D建模确定了几种伞柄结构，即单片机的安装位置通过顶部密封的设计有效地实现了防水功能、伞柄直径约与一拳相当，方便抓握；将之前的关键字比对用if语句
 转换为相应的LED等颜色以起到提醒作用。尝试使用手机利用Tcp调试软件实现开关功能（未成功）。
 ### 外形1：猫爪
-![Image of 猫爪]（https://github.com/Wuwey/umbrella/blob/master/%E7%8C%AB%E7%88%AA.png）
+![Image of 猫爪](https://github.com/Wuwey/umbrella/blob/master/%E7%8C%AB%E7%88%AA.png)
 ### 外形2：竖条形
-![Image of 竖条灯]（https://github.com/Wuwey/umbrella/blob/master/%E7%AB%96%E6%9D%A1%E7%81%AF.png）
+![Image of 竖条灯](https://github.com/Wuwey/umbrella/blob/master/%E7%AB%96%E6%9D%A1%E7%81%AF.png)
 ### 内部结构
 其中红色部分为单片机的防止位置，内部其余位置用于走向以及电池；
-![Image of 内部结构]（https://github.com/Wuwey/umbrella/blob/master/%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png）
+![Image of 内部结构](https://github.com/Wuwey/umbrella/blob/master/%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84.png)
 ### 全部设计总览
 白色部分为灯的位置
-![Image of 全部]（https://github.com/Wuwey/umbrella/blob/master/%E5%85%A8%E9%83%A8.png）
+![Image of 全部](https://github.com/Wuwey/umbrella/blob/master/%E5%85%A8%E9%83%A8.png)
 ### 电源
-![Image of 电源]（https://github.com/Wuwey/umbrella/blob/master/%E7%94%B5%E6%BA%90.jpg）
+![Image of 电源](https://github.com/Wuwey/umbrella/blob/master/%E7%94%B5%E6%BA%90.jpg)
 ## 待办：
     电池、手机交互、防丢模式。
 # 第十五周：
