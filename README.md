@@ -51,7 +51,7 @@ This is a project for code2things course.
 白色部分为灯的位置
 ![Image of 全部](https://github.com/Wuwey/umbrella/blob/master/%E5%85%A8%E9%83%A8.png)
 # 电源
-![Image of 电源](https://github.com/Wuwey/umbrella/blob/master/%E7%94%B5%E6%BA%90.jpg)
+![Image of 电源](https://github.com/Wuwey/umbrella/blob/master/1.jpg)
 # 待办：
 电池、手机交互、防丢模式。
 # 第十五周：
