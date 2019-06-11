@@ -29,7 +29,7 @@ This is a project for code2things course.
 11周-15周 着手制作；
 16周 外形修剪。
 
-#开发日志
+# 开发日志
 
 # 第十三周：
 ## 关键词/字：ESP8266、Arduino、API、关键字比对……
